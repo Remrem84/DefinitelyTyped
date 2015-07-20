@@ -1,0 +1,3 @@
+[submodule "ionic-typescript-definitions"]
+	path = ionic-typescript-definitions
+	url = https://github.com/danibo86/ionic-typescript-definitions.git
