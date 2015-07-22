@@ -10,6 +10,7 @@ declare module plugin.google.maps {
     export enum event {
         MAP_READY,
         MARKER_CLICK,
-        OVERLAY_CLICK
+        OVERLAY_CLICK,
+        CAMERA_CHANGE
     }
 }
